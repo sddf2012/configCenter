@@ -1,4 +1,4 @@
 test:
   configCenter:
-    key1: "configCenter invalid"
+    key1: "configCenter valid"
     key2: "sfsdfsdf"
